@@ -19,3 +19,34 @@ The game starts with a number of fights depending on the difficulty level betwee
 ## Screenshots 
 ![Screenshot (152)](https://user-images.githubusercontent.com/71400898/189983566-623aebf2-a979-440c-9791-ef8dcc414c2f.png)
 
+## Getting Started
+
+- Install Java JDK and Java Extensions for VSCode
+ 
+- Clone this repository by running `git clone https://github.com/imubarak234/Battleship.git` in your command line.
+
+- Run the GUI Interface from App.java file
+
+## Built With
+- JAVA
+- Java GUI
+- VSCode 
+- Git Flow
+
+## Authors
+
+👤 **Mubarak A Ibrahim**
+
+- GitHub: [@Mubarak](https://github.com/imubarak234)
+
+- LinkedIn: [Mubarak](https://www.linkedin.com/in/mubarak-ibrahim-1540a5208/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/imubarak234/Battleship/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
