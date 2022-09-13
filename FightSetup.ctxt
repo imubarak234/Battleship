@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FightSetup
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FightSetup\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ creates\ fight\ objects\ saves\ the\ to\ an\ arrylist\r\n\ and\ saves\ the\ to\ a\ file\r\n
+comment2.params=
+comment2.target=void\ writeToFile()
+comment2.text=\ saves\ the\ elements\ in\ the\ fig\ arraylist\ \r\n\ to\ a\ fight\r\n
+numComments=3

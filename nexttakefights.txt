@@ -1,0 +1,10 @@
+1,25,100,30, Battle,Borg
+2,25,120,20, Skirmish,Kardassians
+3,35,150,40, Ambush,Frengi
+4,35,200,60, Battle,Ewoks
+5,35,90,40, Ambush,Borg
+6,30,45,30, Skirmish,Jabbas
+7,30,45,30, Skirmish,Abbas
+8,50,70,60, Ambush,Yusuf
+9,20,50,40, Battle,Bosses
+10,40,45,40, Skirmish,Youtube

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FightType
+comment0.text=\r\n\ @author\ A.Marczyk\r\n\ @version\ 02/02/2013\r\n
+comment1.params=ty
+comment1.target=FightType(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

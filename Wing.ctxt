@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Wing
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wing\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fleetR\ name\ strik
+comment1.target=Wing(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\ Constructor\ requires\ the\ force\ reference,\ name\r\n\ of\ the\ force\ and\ the\ amount\ of\ strikers\r\n\ @param\ fleetR\ is\ the\ force\ reference\r\n\ @param\ name\ is\ the\ name\ of\ the\ force\r\n\ @param\ strik\ is\ the\ amount\ of\ strikers\r\n
+comment2.params=
+comment2.target=int\ getStrikers()
+comment2.text=\ returns\ the\ amount\ of\ strikers\r\n
+comment3.params=strik
+comment3.target=int\ getbattleStrenght(int)
+comment3.text=returns\ the\ battle\ strenght\ after\ it\ has\ been\r\n\ processed\ \r\n\ @param\ strik\ the\ number\ of\ srikers\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ returns\ a\ string\ representation\ of\ state\ of\r\n\ the\ force\r\n
+numComments=5

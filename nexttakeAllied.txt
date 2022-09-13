@@ -1,0 +1,9 @@
+Wing,IW1,Dragons,10
+Starship,SS2,Enterprise,10,20
+Starship,SS7,Explorer,4,5
+Wing,IW4,Wingers,20
+Starship,SS6,Voyager,15,10
+Warbird,WB3,Droop,100,false
+Warbird,WB5,Hang,350,true
+Warbird,WB9,Hang,400,false
+Wing,IW10,Flyers,5

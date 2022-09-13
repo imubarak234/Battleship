@@ -1,0 +1,4 @@
+Starship,SS7,Explorer,4,5
+Starship,SS6,Voyager,15,10
+Warbird,WB9,Hang,400,false
+Wing,IW10,Flyers,5

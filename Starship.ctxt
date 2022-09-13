@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Starship
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Starship\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fleetR\ name\ lasers\ torpedo
+comment1.target=Starship(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\ Constructor\ requires\ the\ force\ reference,\ name\r\n\ of\ the\ force,\ the\ amount\ of\ laser\ cannon\ and\r\n\ photon\ torpedos\r\n\ @param\ fleetR\ is\ the\ force\ reference\r\n\ @param\ name\ is\ the\ name\ of\ the\ force\r\n\ @param\ lasers\ the\ amonut\ of\ laser\ cannons\r\n\ @param\ torpedos\ the\ amount\ of\ photon\ torpedos\r\n
+comment2.params=
+comment2.target=int\ getLaserCannon()
+comment2.text=\ returns\ the\ amonut\ of\ laser\ cannons\r\n
+comment3.params=
+comment3.target=int\ getPhotonTorpedos()
+comment3.text=\ returns\ the\ amount\ of\ photon\ torpedos\r\n
+comment4.params=laser\ photon
+comment4.target=int\ geActivationFees(int,\ int)
+comment4.text=\ returns\ the\ activation\ fee\ after\ being\ processed\r\n\ @param\ laser\ is\ the\ amount\ of\ laser\ cannons\r\n
+comment5.params=torpedos\ cannon
+comment5.target=int\ getbattlestre(int,\ int)
+comment5.text=\ returns\ the\ battle\ strength\ after\ being\ processed\r\n\ \ @param\ laser\ is\ the\ amount\ of\ laser\ cannons\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ returns\ a\ string\ representation\ of\ state\ of\r\n\ the\ force\r\n
+numComments=7

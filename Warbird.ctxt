@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Warbird
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Warbird\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fleetR\ name\ strenght\ cloaks
+comment1.target=Warbird(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment1.text=\ Constructor\ requires\ the\ force\ reference,\ name\r\n\ of\ the\ force,\ battle\ strenght\ and\ if\ its\ to\ be\ cloaked\ \r\n\ or\ not\r\n\ @param\ fleetR\ is\ the\ force\ reference\r\n\ @param\ name\ is\ the\ name\ of\ the\ force\r\n\ @param\ strenght\ is\ the\ battle\ strengh\r\n\ @param\ cloaks\ if\ it\ has\ a\ cloak\ or\ not\ \r\n
+comment2.params=
+comment2.target=boolean\ isCloaked()
+comment2.text=\ returns\ if\ the\ warbird\ is\ cloaked\ or\ not\r\n
+comment3.params=
+comment3.target=int\ setActivationFees()
+comment3.text=\ returns\ the\ activation\ fee\ if\ the\ warbird\ is\ \r\n\ cloaked\ of\ not\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ returns\ a\ string\ representation\ of\ state\ of\r\n\ the\ force\r\n
+numComments=5
